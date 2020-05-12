@@ -6,7 +6,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello motu");
         System.out.println(Math.sqrt(9));
-        new HelloWorld().invokeSayHello();
 
     }
     
